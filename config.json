@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routercerify",
+        "uuid": 13472704,
+        "checksum": "fkp37"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
